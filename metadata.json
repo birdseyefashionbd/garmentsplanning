@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Garments ERP",
+  "description": "গার্মেন্টস প্রোডাকশন প্ল্যানিং, লাইন এলোকেশন ও ম্যাট্রিক্স ভিউ — রিয়েল-টাইম ক্লাউড ERP।",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
